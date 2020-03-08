@@ -10,7 +10,6 @@ namespace LongestWord
     {
         static void Main(string[] args)
         {
-            
             string text =
                 "The longest word in any of the major English language dictionaries is 9pneumonoultramicroscopicsilicovolcanoconiosis, " +
                 "a word that refers to a lung disease contracted from the inhalation of very fine silica particles, " +

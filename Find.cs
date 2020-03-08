@@ -25,8 +25,7 @@ namespace LongestWord
             for (int i = 0; i < arrayText.Count - 1; i++)
             {
                 if (arrayText[i].Length == lengthoflongestWord)
-                    result.Add(arrayText[i]);
-                    
+                    result.Add(arrayText[i]);  
             }
 
             return result;
